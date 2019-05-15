@@ -1,0 +1,9 @@
+//
+// Created by 王磊 on 2019-05-15.
+//
+
+#ifndef MYAPPLICATION_TESTINTERFACEMODE_H
+#define MYAPPLICATION_TESTINTERFACEMODE_H
+
+int testAdd(int a, int b);
+#endif //MYAPPLICATION_TESTINTERFACEMODE_H
